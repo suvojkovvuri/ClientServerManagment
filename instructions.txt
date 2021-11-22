@@ -1,0 +1,20 @@
+1. server.py
+2. server_logic.py
+3. client.py
+4. test_file.py
+5. commands.txt
+6. userlog.txt
+7. loginlog.txt
+8. server_main.py
+- All the above files need to be stored in the same directory.
+- Client files can be run separately in other directory
+
+Code execution:
+- Run server_main.py in a terminal.
+- After connecting to the server successfully, run client.py in a new terminal.
+- If running the code for the first time register a user by using a username and a password.
+- Upon successful registration, login with the credentials.
+- After logging in enter the command "commands"
+- The command displays all the functions of the programme to the user.
+- Select the necessary commands 
+- select the "quit" to disconnect from the server.
